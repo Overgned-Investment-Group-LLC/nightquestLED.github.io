@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-# 👋 Hi, I’m a comercial drone pilot, photogrammetry & VR  enthusiast who loves build & code robots. 
+# 👋 Hi, I’m a comercial drone pilot, photogrammetry & VR  enthusiast who loves to build & code robots. 
 Open Source Projects I've worked on: \
 [GoldyDogV7](https://github.com/umn-vr/goldydogv7) &nbsp; [RONALD360](https://github.com/Felipegalind0/RONALD360) &nbsp; [Insta360-Drone-Mount](https://github.com/Felipegalind0/Insta360-Drone-Mount) &nbsp; [Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App) &nbsp; [UMN-RI3D-2023](https://github.com/GOFIRST-Robotics/Ri3D-2023)
 
