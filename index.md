@@ -19,7 +19,7 @@ Open Source Projects I've worked on: \
 
 -😎 WebVR(Open these w/ a VR Headset): [GoldyDogV7 w/ Insta360 1:1](https://goldydogv7.glitch.me) &nbsp; &nbsp; [RONALD360 1:1](https://ronald360-showcase.glitch.me)
 
-[![](https://github-readme-stats.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
+[![](https://github-readme-stats-sigma-five.vercel.app/api?username=Felipegalind0&show_icons=true)](https://github.com/Felipegalind0)
 
 - 👀 I’m interested in Drones, Photogrammetry, 360 videography, WebXR, Babylon.js, Unity, ROS, Python, SwiftUI,
 Inverse Kinematics & more. 
