@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "NightQuestLED: Illuminate Your VR Experience"
+title: "Experience VR Like Never Before"
 ---
 
 # NightQuestLED: Experience VR Like Never Before
