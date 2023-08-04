@@ -7,8 +7,6 @@ Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED
 
 [![Env](img/NightQuestLED.png)](https://www.youtube.com/watch?v=A4pjTKo8AHs)
 
-<iframe src="https://collaborate.shapr3d.com/v/-aIgoza8qoZAO932ojAa-" title="Shapr3D Webviewer" frameborder="0" allow="web-share; xr-spatial-tracking" loading="lazy" scrolling="no" referrerpolicy="origin-when-cross-origin" allowfullscreen></iframe>
-
 
 <!-- Scoped Bootstrap Carousel Styles -->
 <style>
@@ -68,7 +66,30 @@ Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED
     height: 20px;
     background: no-repeat 50% / 100% 100%;
 }
+
+.iframe-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 100%;  /* 1:1 Aspect Ratio */
+}
+
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
 </style>
+
+<div class="iframe-container">
+    <iframe src="https://collaborate.shapr3d.com/v/-aIgoza8qoZAO932ojAa-" title="Shapr3D Webviewer" frameborder="0" allow="web-share; xr-spatial-tracking" loading="lazy" scrolling="no" referrerpolicy="origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 <div class="bootstrap-carousel-container">
     <!-- Carousel -->
