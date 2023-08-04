@@ -10,6 +10,13 @@ Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for ent
 <!-- Add Bootstrap CSS for styling -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
+<!-- Overriding styles -->
+<style>
+    body {
+        background-color: #2c2c2c; /* Adjust this color to match your theme's dark background */
+        color: #ffffff; /* Adjust this color to match your theme's default text color */
+    }
+</style>
 
 <!-- Carousel -->
 <div id="CADCarousel" class="carousel slide" data-ride="carousel">
