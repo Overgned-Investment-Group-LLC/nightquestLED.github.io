@@ -31,8 +31,8 @@ Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for ent
 .bootstrap-carousel-container .carousel-control-prev,
 .bootstrap-carousel-container .carousel-control-next {
     position: absolute;
-    top: 0;
-    bottom: 0;
+    top: 50%;
+    bottom: auto;
     z-index: 1;
     display: flex;
     align-items: center;
@@ -42,6 +42,15 @@ Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for ent
     text-align: center;
     background: rgba(0, 0, 0, 0.5);
     transition: opacity 0.15s ease;
+    transform: translateY(-50%);
+}
+
+.bootstrap-carousel-container .carousel-control-prev {
+    left: 0;
+}
+
+.bootstrap-carousel-container .carousel-control-next {
+    right: 0;
 }
 .bootstrap-carousel-container .carousel-control-prev:hover,
 .bootstrap-carousel-container .carousel-control-next:hover {
