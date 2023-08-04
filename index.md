@@ -7,45 +7,86 @@ title: "Experience VR Like Never Before"
 [![Env](img/NightQuestLED.png)](https://www.nightquestled.com/buy)\
 Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for enthusiasts who want to take their VR journey to new heights, even in complete darkness.
 
-<!-- Add Bootstrap CSS for styling -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
-<!-- Overriding styles -->
+<!-- Scoped Bootstrap Carousel Styles -->
 <style>
-    body {
-        background-color: #2c2c2c; /* Adjust this color to match your theme's dark background */
-        color: #ffffff; /* Adjust this color to match your theme's default text color */
-    }
+.bootstrap-carousel-container .carousel {
+    position: relative;
+    display: block;
+}
+.bootstrap-carousel-container .carousel-inner {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+.bootstrap-carousel-container .carousel-item {
+    position: relative;
+    display: none;
+    align-items: center;
+    width: 100%;
+    transition: transform 0.6s ease-in-out;
+}
+.bootstrap-carousel-container .carousel-item.active {
+    display: block;
+}
+.bootstrap-carousel-container .carousel-control-prev,
+.bootstrap-carousel-container .carousel-control-next {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    color: #fff;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    transition: opacity 0.15s ease;
+}
+.bootstrap-carousel-container .carousel-control-prev:hover,
+.bootstrap-carousel-container .carousel-control-next:hover {
+    color: #fff;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.9);
+}
+.bootstrap-carousel-container .carousel-control-prev-icon,
+.bootstrap-carousel-container .carousel-control-next-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: no-repeat 50% / 100% 100%;
+}
 </style>
 
-<!-- Carousel -->
-<div id="CADCarousel" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img src="img/CADv2_0.PNG" alt="CAD Image 1" class="d-block w-100">
+<div class="bootstrap-carousel-container">
+    <!-- Carousel -->
+    <div id="CADCarousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/CADv2_0.PNG" alt="CAD Image 1" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="img/CADv2_1.PNG" alt="CAD Image 2" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="img/CADv2_2.PNG" alt="CAD Image 3" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="img/CADv2_3.PNG" alt="CAD Image 4" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="img/CADv2_4.PNG" alt="CAD Image 5" class="d-block w-100">
+            </div>
         </div>
-        <div class="carousel-item">
-            <img src="img/CADv2_1.PNG" alt="CAD Image 2" class="d-block w-100">
-        </div>
-        <div class="carousel-item">
-            <img src="img/CADv2_2.PNG" alt="CAD Image 3" class="d-block w-100">
-        </div>
-        <div class="carousel-item">
-            <img src="img/CADv2_3.PNG" alt="CAD Image 4" class="d-block w-100">
-        </div>
-        <div class="carousel-item">
-            <img src="img/CADv2_4.PNG" alt="CAD Image 5" class="d-block w-100">
-        </div>
-        <!-- Add more images as needed -->
+        <a class="carousel-control-prev" href="#CADCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#CADCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
-    <a class="carousel-control-prev" href="#CADCarousel" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#CADCarousel" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
 </div>
 
 <!-- Add Bootstrap and jQuery JS for carousel functionality -->
