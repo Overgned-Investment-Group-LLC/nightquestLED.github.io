@@ -4,10 +4,12 @@ title: "Experience VR Like Never Before"
 ---
 
 # NightQuestLED: Experience VR Like Never Before
+[![Env](img/NightQuestLED.PNG)](https://www.nightquestled.com/buy)\
 Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for enthusiasts who want to take their VR journey to new heights, even in complete darkness.
 
 <!-- Add Bootstrap CSS for styling -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 
 <!-- Carousel -->
 <div id="CADCarousel" class="carousel slide" data-ride="carousel">
@@ -20,6 +22,12 @@ Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for ent
         </div>
         <div class="carousel-item">
             <img src="img/CADv2_2.PNG" alt="CAD Image 3" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+            <img src="img/CADv2_3.PNG" alt="CAD Image 4" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+            <img src="img/CADv2_4.PNG" alt="CAD Image 5" class="d-block w-100">
         </div>
         <!-- Add more images as needed -->
     </div>
