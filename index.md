@@ -96,6 +96,27 @@ Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for ent
             <span class="sr-only">Next</span>
         </a>
     </div>
+    <!-- Physical Prototype Carousel -->
+    <div id="PhysicalProtoCarousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/Physical_Prototype_v2_0.JPG" alt="Physical Prototype Image 1" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="img/Physical_Prototype_v2_1.JPG" alt="Physical Prototype Image 2" class="d-block w-100">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#PhysicalProtoCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#PhysicalProtoCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+
 </div>
 
 <!-- Add Bootstrap and jQuery JS for carousel functionality -->
