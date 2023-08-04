@@ -3,10 +3,11 @@ layout: page
 title: "Experience VR Like Never Before"
 ---
 
-# NightQuestLED: Experience VR Like Never Before
+Discover NightQuestLED, the Quest 2's ultimate companion. With an 18W IR LED array, transform night into day and play flawlessly in pitch black. Enhanced hand tracking ensures uninterrupted gameplay, while vibrant RGB lights set you apart in multiplayer action
+
 [![Env](img/NightQuestLED.png)](https://www.nightquestled.com/buy)\
 <iframe src="https://collaborate.shapr3d.com/v/-aIgoza8qoZAO932ojAa-" title="Shapr3D Webviewer" width="640" height="640" frameborder="0" allow="web-share; xr-spatial-tracking" loading="lazy" scrolling="no" referrerpolicy="origin-when-cross-origin" allowfullscreen></iframe>
-Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for enthusiasts who want to take their VR journey to new heights, even in complete darkness.
+
 
 <!-- Scoped Bootstrap Carousel Styles -->
 <style>
@@ -126,7 +127,7 @@ Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for ent
 
 ## Features
 ### 18 W Infrared LED Array
-Our powerful infrared LED array ensures that your Quest 2 never loses track, even in the darkest environments. Experience smooth, uninterrupted gameplay or exploration, wherever you are.
+Our powerful infrared LED array ensures that your Quest 2 never loses track, even in the darkest environments. Experience smooth, uninterrupted gameplay or exploration, wherever you are. 
 
 ### 5 W Neo Pixel Array
 Illuminate your surroundings with our vibrant neo pixel array, adding a touch of brilliance to your VR experience.
@@ -151,10 +152,12 @@ Unlock a new dimension in VR for just [Price]. [Link to purchase page or details
 ## About Us
 todo
 
-## Contact
-Have questions or feedback? Reach out at [your email] or follow me on [Your social media links].
-
 ## Testimonials
 "NightQuestLED transformed my VR experience!" - [Name]
 
 [Other testimonials or reviews]
+
+
+
+## Contact
+Have questions or feedback? Reach out at [email] or follow us on 
