@@ -142,12 +142,11 @@ Easily attach nightquestLED to your Quest 2 and experience the difference in min
 
 ## Safety Precautions
 Your safety is paramount. Always ensure:
-- Do not look directly into the LEDs.
-- Use the product in well-ventilated areas.
-- [Any other precautions you might want to add]
+- Do not look directly into the LEDs for extended periods of time. Humans cannot see IR light, but it carries energy like all other wavelenghts, while likely safe at the power levels used, it has not been independently tested and declared safe yet. 
+- The device might get hot, avoid touching it for 1 minute after turning off the IR LEDs
 
 ## Pricing and Purchase
-Unlock a new dimension in VR for just [Price]. [Link to purchase page or details]
+Unlock a new dimension in VR for just [Price]. Buy now
 
 ## About Us
 todo
