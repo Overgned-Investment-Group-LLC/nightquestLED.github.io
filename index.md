@@ -4,7 +4,7 @@ title: "Experience VR Like Never Before"
 ---
 
 # NightQuestLED: Experience VR Like Never Before
-[![Env](img/NightQuestLED.PNG)](https://www.nightquestled.com/buy)\
+[![Env](img/NightQuestLED.png)](https://www.nightquestled.com/buy)\
 Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for enthusiasts who want to take their VR journey to new heights, even in complete darkness.
 
 <!-- Add Bootstrap CSS for styling -->
