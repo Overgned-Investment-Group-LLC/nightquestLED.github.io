@@ -6,6 +6,37 @@ title: "Experience VR Like Never Before"
 # NightQuestLED: Experience VR Like Never Before
 Introducing the ultimate add-on for the Quest 2, nightquestLED. Designed for enthusiasts who want to take their VR journey to new heights, even in complete darkness.
 
+<!-- Add Bootstrap CSS for styling -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<!-- Carousel -->
+<div id="CADCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="img/CADv2_0.PNG" alt="CAD Image 1" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+            <img src="img/CADv2_1.PNG" alt="CAD Image 2" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+            <img src="img/CADv2_2.PNG" alt="CAD Image 3" class="d-block w-100">
+        </div>
+        <!-- Add more images as needed -->
+    </div>
+    <a class="carousel-control-prev" href="#CADCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#CADCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<!-- Add Bootstrap and jQuery JS for carousel functionality -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 ## Features
 ### 18 W Infrared LED Array
 Our powerful infrared LED array ensures that your Quest 2 never loses track, even in the darkest environments. Experience smooth, uninterrupted gameplay or exploration, wherever you are.
