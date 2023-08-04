@@ -129,12 +129,35 @@ Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED
 ## DIY Kit & Savings
 Love tinkering and 3D printing? We've got great news! Download the 3D files for the Quest mount absolutely free and print your own mount. Opt for this DIY route, and you'll receive a $10 discount on your purchase. Buy our PCB/electronics kit for just $20, and with a quick assembly time of under 15 minutes (excluding print time), you'll have your NightQuestLED ready to roll!
 
+## ESP32 Onboard: Powering Infinite Possibilities
+Harness the power of our onboard ESP32 microcontroller. A cornerstone feature, it allows you to:
+
+Open Source Firmware: Customize and modify the device firmware to suit your unique needs. Dive into the code and make it yours.
+
+Over-the-Air (OTA) Updates: As we innovate and improve, get firmware updates directly to your device without any hassle.
+
+Bluetooth Communication: Seamlessly connect the NightQuestLED to your Quest 2 via Bluetooth. This integration opens up a realm of real-time interactions, such as adjusting the RGB or IR LED based on game dynamics or ambient conditions.
+
+Dynamic Adjustments with Quest's Passthrough API: Imagine the IR LEDs adjusting their brightness in tandem with the ambient light detected by the Quest's passthrough. Perfect lighting, every time.
+
+Shared Space Multiplayer Enhancements: With the rise of shared-space VR experiences, use the RGB to signify teams, player statuses, and more. Whether you're in a competitive match or a collaborative effort, let the RGB tell the story.
+
+Versatile Lighting: Need more illumination? Switch the RGB NeoPixels to act as powerful white LEDs, ensuring optimal visibility even in vast, dark environments.
+
+The potential is vast. With NightQuestLED, you're not just buying a product; you're stepping into a world of endless VR enhancements and possibilities.
+
 ## Features
 ### 18 W Infrared LED Array
 Our powerful infrared LED array ensures that your Quest 2 never loses track, even in the darkest environments. Experience smooth, uninterrupted gameplay or exploration, wherever you are. 
 
 ### 5 W RGB NeoPixel Array
 Illuminate your surroundings with our vibrant neo pixel array, adding a touch of brilliance to your VR experience.
+
+### Customizable Plastic Mount
+If you don't like the options you can purchase from us, you can 3D print at home your own mount to attach the electronics to the quest 2. You can print it in whatever plastic you'd like, print replacements, or re-use the mount for your own purpuses. 
+
+## USB C PD with Power Passthrough
+Stay powered up without interruptions. Our device supports USB C Power Delivery (PD) with a passthrough feature. Connect a USB C PD cable to NightQuestLED and simultaneously power the LEDs while charging your Quest 2. Game on without worrying about battery drain.
 
 ## Benefits
 - **Outdoor Adventures**: Use your Quest 2 outside and achieve precise tracking on the ground.
