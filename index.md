@@ -125,6 +125,10 @@ Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+
+## DIY Kit & Savings
+Love tinkering and 3D printing? We've got great news! Download the 3D files for the Quest mount absolutely free and print your own mount. Opt for this DIY route, and you'll receive a $10 discount on your purchase. Buy our PCB/electronics kit for just $20, and with a quick assembly time of under 15 minutes (excluding print time), you'll have your NightQuestLED ready to roll!
+
 ## Features
 ### 18 W Infrared LED Array
 Our powerful infrared LED array ensures that your Quest 2 never loses track, even in the darkest environments. Experience smooth, uninterrupted gameplay or exploration, wherever you are. 
