@@ -3,7 +3,7 @@ layout: page
 title: "Experience VR Like Never Before"
 ---
 
-Discover NightQuestLED, the Quest 2's ultimate companion. With an 18W IR LED array, transform night into day and play flawlessly in pitch black. Enhanced hand tracking ensures uninterrupted gameplay, while vibrant RGB lights set you apart in multiplayer action
+Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED array, transform night into day and play flawlessly in pitch black. Enhanced hand tracking ensures uninterrupted gameplay, while vibrant RGB lights set you apart in multiplayer action
 
 [![Env](img/NightQuestLED.png)](https://www.nightquestled.com/buy)\
 <iframe src="https://collaborate.shapr3d.com/v/-aIgoza8qoZAO932ojAa-" title="Shapr3D Webviewer" width="640" height="640" frameborder="0" allow="web-share; xr-spatial-tracking" loading="lazy" scrolling="no" referrerpolicy="origin-when-cross-origin" allowfullscreen></iframe>
@@ -91,11 +91,11 @@ Discover NightQuestLED, the Quest 2's ultimate companion. With an 18W IR LED arr
         </div>
         <a class="carousel-control-prev" href="#CADCarousel" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">&lt</span>
+            <span class="sr-only">◀️</span>
         </a>
         <a class="carousel-control-next" href="#CADCarousel" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">&gt</span>
+            <span class="sr-only">▶️</span>
         </a>
     </div>
     <!-- Physical Prototype Carousel -->
@@ -110,11 +110,11 @@ Discover NightQuestLED, the Quest 2's ultimate companion. With an 18W IR LED arr
         </div>
         <a class="carousel-control-prev" href="#PhysicalProtoCarousel" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">&lt</span>
+            <span class="sr-only">◀️</span>
         </a>
         <a class="carousel-control-next" href="#PhysicalProtoCarousel" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">&gt</span>
+            <span class="sr-only">▶️</span>
         </a>
     </div>
 
@@ -129,7 +129,7 @@ Discover NightQuestLED, the Quest 2's ultimate companion. With an 18W IR LED arr
 ### 18 W Infrared LED Array
 Our powerful infrared LED array ensures that your Quest 2 never loses track, even in the darkest environments. Experience smooth, uninterrupted gameplay or exploration, wherever you are. 
 
-### 5 W Neo Pixel Array
+### 5 W RGB NeoPixel Array
 Illuminate your surroundings with our vibrant neo pixel array, adding a touch of brilliance to your VR experience.
 
 ## Benefits
@@ -146,7 +146,7 @@ Your safety is paramount. Always ensure:
 - The device might get hot, avoid touching it for 1 minute after turning off the IR LEDs
 
 ## Pricing and Purchase
-Unlock a new dimension in VR for just [Price]. Buy now
+Unlock a new dimension in VR for just $30. Buy now
 
 ## About Us
 todo
