@@ -62,7 +62,7 @@ Your safety is paramount. Always ensure:
 Unlock a new dimension in VR for just [Price]. [Link to purchase page or details]
 
 ## About Us
-Hi, I'm [Your Name], a commercial drone pilot, photogrammetry, and VR enthusiast with a passion for innovation. With projects like [GoldyDogV7](https://github.com/umn-vr/goldydogv7) and [Quest-2-App](https://github.com/UMN-VR/UMN-VR-Quest-2-App) under my belt, nightquestLED is my latest endeavor to enhance the VR experience for all.
+todo
 
 ## Contact
 Have questions or feedback? Reach out at [your email] or follow me on [Your social media links].
