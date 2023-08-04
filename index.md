@@ -132,17 +132,17 @@ Love tinkering and 3D printing? We've got great news! Download the 3D files for 
 ## ESP32 Onboard: Powering Infinite Possibilities
 Harness the power of our onboard ESP32 microcontroller. A cornerstone feature, it allows you to:
 
-Open Source Firmware: Customize and modify the device firmware to suit your unique needs. Dive into the code and make it yours.
+**Open Source Firmware**: Customize and modify the device firmware to suit your unique needs. Dive into the code and make it yours.
 
-Over-the-Air (OTA) Updates: As we innovate and improve, get firmware updates directly to your device without any hassle.
+**Over-the-Air (OTA) Updates**: As we innovate and improve, get firmware updates directly to your device without any hassle.
 
-Bluetooth Communication: Seamlessly connect the NightQuestLED to your Quest 2 via Bluetooth. This integration opens up a realm of real-time interactions, such as adjusting the RGB or IR LED based on game dynamics or ambient conditions.
+**Bluetooth Communication**: Seamlessly connect the NightQuestLED to your Quest 2 via Bluetooth. This integration opens up a realm of real-time interactions, such as adjusting the RGB or IR LED based on game dynamics or ambient conditions.
 
-Dynamic Adjustments with Quest's Passthrough API: Imagine the IR LEDs adjusting their brightness in tandem with the ambient light detected by the Quest's passthrough. Perfect lighting, every time.
+**Dynamic Adjustments with Quest's Passthrough API**: Imagine the IR LEDs adjusting their brightness in tandem with the ambient light detected by the Quest's passthrough. Perfect lighting, every time.
 
-Shared Space Multiplayer Enhancements: With the rise of shared-space VR experiences, use the RGB to signify teams, player statuses, and more. Whether you're in a competitive match or a collaborative effort, let the RGB tell the story.
+**Shared Space Multiplayer Enhancements**: With the rise of shared-space VR experiences, use the RGB to signify teams, player statuses, and more. Whether you're in a competitive match or a collaborative effort, let the RGB tell the story.
 
-Versatile Lighting: Need more illumination? Switch the RGB NeoPixels to act as powerful white LEDs, ensuring optimal visibility even in vast, dark environments.
+**Versatile Lighting**: Need more illumination? Switch the RGB NeoPixels to act as powerful white LEDs, ensuring optimal visibility even in vast, dark environments.
 
 The potential is vast. With NightQuestLED, you're not just buying a product; you're stepping into a world of endless VR enhancements and possibilities.
 
