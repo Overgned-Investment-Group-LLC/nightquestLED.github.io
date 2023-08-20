@@ -7,6 +7,9 @@ Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED
 
 [![Env](img/NightQuestLED.png)](https://www.youtube.com/watch?v=A4pjTKo8AHs)
 
+[![Env](Gifs/Turn_around.gif)]()\
+
+[![Env](Gifs/Walk_away.gif)]()\
 
 <!-- Scoped Bootstrap Carousel Styles -->
 <style>
@@ -147,20 +150,17 @@ Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+# Explore your house in even in pitch black
 [![Env](Gifs/Explore_house.gif)]()\
-[Explore_house]()\
 
+# Play VR games late at night without disturbing your apartment mates
+
+## Explore the Outdoors with Super-Human Night Vision
 [![Env](Gifs/Explore_outdoor.gif)]()\
-[Explore_house]()\
-
 [![Env](Gifs/Explore_outdoor2.gif)]()\
-[Explore_house]()\
 
-[![Env](Gifs/Turn_around.gif)]()\
-[Explore_house]()\
 
-[![Env](Gifs/Walk_away.gif)]()\
-[Explore_house]()\
+
 
 
 ## DIY Kit & Savings
