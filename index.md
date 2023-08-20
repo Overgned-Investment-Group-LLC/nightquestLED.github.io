@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-[![Env](img/NightQuestLED.png)](https://www.youtube.com/watch?v=A4pjTKo8AHs)
+[![Env](img/NQ_Promo_image.png)](https://www.youtube.com/watch?v=A4pjTKo8AHs)
 
 Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED array, transform night into day and play flawlessly in pitch black. Enhanced hand tracking ensures uninterrupted gameplay, while vibrant RGB lights set you apart in multiplayer action
 
