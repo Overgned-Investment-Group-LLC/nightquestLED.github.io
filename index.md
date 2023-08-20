@@ -8,10 +8,15 @@ title: ""
 Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED array, transform night into day and play flawlessly in pitch black. Enhanced hand tracking ensures uninterrupted gameplay, while vibrant RGB lights set you apart in multiplayer action
 
 
-#
-[![Env](Gifs/Turn_around.gif)]()\
 
-[![Env](Gifs/Walk_away.gif)]()\
+[![Env](Gifs/Turn_around.gif)]()
+
+[![Env](Gifs/Walk_away.gif)]()
+
+## Benefits
+- **Outdoor Adventures**: Use your Quest 2 outside and achieve precise tracking on the ground.
+- **Distant Viewing**: Our LED combination enhances the IR sensitive cameras in the Quest 2, allowing you to see far-away objects with clarity.
+- **Seamless Integration**: Designed to fit perfectly with your Quest 2, without adding any unnecessary bulk.
 
 <!-- Scoped Bootstrap Carousel Styles -->
 <style>
@@ -179,7 +184,7 @@ Harness the power of our onboard ESP32 microcontroller. A cornerstone feature, i
 
 **Bluetooth Communication**: Seamlessly connect the NightQuestLED to your Quest 2 via Bluetooth. This integration opens up a realm of real-time interactions, such as adjusting the RGB or IR LED based on game dynamics or ambient conditions.
 
-**Dynamic Adjustments with Quest's Passthrough API**: Imagine the IR LEDs adjusting their brightness in tandem with the ambient light detected by the Quest's passthrough. Perfect lighting, every time.
+**Dynamic Adjustments with Quest's Passthrough API**: In a future software release we will add the capability for the IR & RGB LEDs to adjust their brightness in tandem with the ambient light changes detected by the cameras of the Quest 2, enabling perfect lighting, every time.
 
 **Shared Space Multiplayer Enhancements**: With the rise of shared-space VR experiences, use the RGB to signify teams, player statuses, and more. Whether you're in a competitive match or a collaborative effort, let the RGB tell the story.
 
@@ -187,7 +192,7 @@ Harness the power of our onboard ESP32 microcontroller. A cornerstone feature, i
 
 The potential is vast. With NightQuestLED, you're not just buying a product; you're stepping into a world of endless VR enhancements and possibilities.
 
-## Features
+# Features
 ### 18 W Infrared LED Array
 Our powerful infrared LED array ensures that your Quest 2 never loses track, even in the darkest environments. Experience smooth, uninterrupted gameplay or exploration, wherever you are. 
 
@@ -197,13 +202,10 @@ Illuminate your surroundings with our vibrant neo pixel array, adding a touch of
 ### Customizable Plastic Mount
 If you don't like the options you can purchase from us, you can 3D print at home your own mount to attach the electronics to the quest 2. You can print it in whatever plastic you'd like, print replacements, or re-use the mount for your own purpuses. 
 
-## USB C PD with Power Passthrough
+### USB C PD with Power Passthrough
 Stay powered up without interruptions. Our device supports USB C Power Delivery (PD) with a passthrough feature. Connect a USB C PD cable to NightQuestLED and simultaneously power the LEDs while charging your Quest 2. Game on without worrying about battery drain.
 
-## Benefits
-- **Outdoor Adventures**: Use your Quest 2 outside and achieve precise tracking on the ground.
-- **Distant Viewing**: Our LED combination enhances the IR sensitive cameras in the Quest 2, allowing you to see far-away objects with clarity.
-- **Seamless Integration**: Designed to fit perfectly with your Quest 2, without adding any unnecessary bulk.
+
 
 ## Installation
 Easily attach nightquestLED to your Quest 2 and experience the difference in minutes. [Link to a potential installation guide or video]
