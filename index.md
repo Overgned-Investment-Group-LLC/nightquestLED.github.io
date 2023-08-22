@@ -160,13 +160,13 @@ Discover NightQuestLED, the Quest 2's ultimate RGB companion. With an 18W IR LED
 <br />
 
 ## Explore your house in even in pitch black
-[![Env](Gifs/Explore_house.gif)]()\
+[![Env](Gifs/Explore_house.gif)]()
 
 ## Play VR games late at night without disturbing your apartment mates
 
 ## Explore the Outdoors with Super-Human Night Vision
 [![Env](Gifs/Explore_outdoor.gif)]()\
-[![Env](Gifs/Explore_outdoor2.gif)]()\
+[![Env](Gifs/Explore_outdoor2.gif)]()
 
 
 
